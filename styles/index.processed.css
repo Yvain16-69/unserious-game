@@ -2,10 +2,9 @@
  * index.scss
  * - Add any styles you want here!
  */
-
- body {
+body {
   background: url(https://media.giphy.com/media/FL3Irmy2uFILm/giphy.gif);
-  color: rgb(0, 0, 0);
+  color: rgb(250, 51, 7);
   font-family: 'Press Start 2P', cursive;
 
   display: flex;
@@ -111,7 +110,7 @@ h2 {
 }
   
 
- signature a{
+.signature a{
    background-color: #222;
    padding-top: 10px;
    padding-bottom: 10px;
