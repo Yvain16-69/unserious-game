@@ -4,6 +4,9 @@
  */
 body {
   background: url(https://media.giphy.com/media/FL3Irmy2uFILm/giphy.gif);
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
   color: rgb(250, 51, 7);
   font-family: 'Press Start 2P', cursive;
 
